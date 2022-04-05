@@ -1,0 +1,25 @@
+.sides:hover{
+    text-decoration: underline dotted green;
+    cursor: pointer; /* Trol - make it look like a link */
+}
+.search{
+    display: flex;
+    justify-content: right;
+}
+.container-1{
+    display: flex;
+}
+.box-1{
+    flex: 3;
+}
+.box-2{
+    flex: 1;
+    margin: 20px;
+    padding: 30px;
+    border: 2px solid rgb(61, 129, 255);
+}
+body{
+    background-color: rgba(0, 128, 255, 0.144);
+    padding: 5px;
+    border: 2px solid darkblue;
+}
