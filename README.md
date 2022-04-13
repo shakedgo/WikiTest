@@ -1,3 +1,3 @@
 # HTMLTest
 
-[GOTO webepage]https://shakedgo.github.io/WikiTest/
+[GOTO webepage](https://shakedgo.github.io/WikiTest/)
